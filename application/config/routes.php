@@ -12,8 +12,4 @@ return [
         'controller' => 'account',
         'action' => 'register',
     ],
-    'news/show' => [
-        'controller' => 'news',
-        'action' => 'show',
-    ]
 ];
